@@ -15,7 +15,7 @@ Traffic Signs Detection using Neural Net and Deep Learning
 
 # Dataset creation
 
-  # Preparing the data
+  #Preparing the data
   
   ## Loading the data into DIGITS
   
