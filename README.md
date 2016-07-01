@@ -1,8 +1,8 @@
 # TrafficSignsDetection
 Traffic Signs Detection using Neural Net and Deep Learning
 
-- [Introduction](../blob/master/README.md#introduction)
-- [Dataset creation](../blob/master/README.md#dataset-creation)
+- [Introduction](./master/README.md#introduction)
+- [Dataset creation](./blob/master/README.md#dataset-creation)
   - [Preparing the data](../blob/master/README.md#preparing-the-data)
   - [Loading the data into DIGITS](../blob/master/README.md#loading-the-data-into-digits)
 - [Model creation](../blob/master/README.md#model-creation)
