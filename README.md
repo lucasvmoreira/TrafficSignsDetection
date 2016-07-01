@@ -1,7 +1,7 @@
 # TrafficSignsDetection
 Traffic Signs Detection using Neural Net and Deep Learning
 
-- [Introduction](./README.md##Introduction)
+- [Introduction](./README.md#Introduction)
 - [Dataset creation]
   - [Preparing the data]
   - [Loading the data into DIGITS]
@@ -12,9 +12,9 @@ Traffic Signs Detection using Neural Net and Deep Learning
 
 ## Introduction
 ## Dataset creation
-  ### Preparing the data
-  ### Loading the data into DIGITS
+  ## Preparing the data
+  ## Loading the data into DIGITS
 ## Model creation]
-  ### AlexNet
-  ### Training DetectNet in DIGITS
+  ## AlexNet
+  ## Training DetectNet in DIGITS
 ## Verification
