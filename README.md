@@ -1,7 +1,7 @@
 # TrafficSignsDetection
-Alunos: Lucas Vital e Elivelto Ebermam
 Traffic Signs Detection using Neural Net and Deep Learning
- 
+
+ Alunos: Lucas Vital e Elivelto Ebermam
 In this article we use DIGITS to train Object Detection neural network using the Caffe back-end. In this particular work, base model Alexnet to train a neural network Traffic Signs Detection.
  
 ## Dataset
