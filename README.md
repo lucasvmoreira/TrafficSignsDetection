@@ -8,5 +8,6 @@ In this article we use DIGITS to train Object Detection neural network using the
 
 ## Data used into DIGITS
  [Train Dataset]  (https://www.dropbox.com/s/2kuq3mw105sjrky/TRAIN3.zip?dl=0)
+ 
  [Test Dataset] (https://www.dropbox.com/s/vnr8rilqkb0y343/TEST.zip?dl=0)
   
